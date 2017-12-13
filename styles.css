@@ -1,0 +1,30 @@
+h1{
+    color:#000080;
+}
+h3 {
+    color:#cc5500;
+}
+h4 {
+    color:#000080
+}
+body{
+    margin: 0;
+    font-family: Verdana, Geneva;
+    Font-size: 17px;
+    color: #ff0000;
+    line-height: 1.6;
+}
+main:nth-child(8) {
+    color: white;
+}
+
+footer {
+    color: #00ff00;
+}
+
+#showcase{
+    background-image:url('../img/backgroundphoto.jpg');
+    background-size:cover;
+    background-position:center;
+    height: 100vh;
+}
