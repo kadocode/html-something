@@ -1,25 +1,28 @@
 h1{
     color:#000080;
+    margin-top: 100px;
+    margin-left:300px;
 }
 h3 {
     color:#cc5500;
 }
 h4 {
-    color:#000080
+    color:#000080;
+    margin-left:100px;
 }
 body{
-    margin: 0;
+    margin-left:30px;
     font-family: Verdana, Geneva;
     Font-size: 17px;
     color: #ff0000;
     line-height: 1.6;
 }
-main:nth-child(8) {
+body:nth-child(10) {
     color: white;
 }
 
 footer {
-    color: #00ff00;
+    color: black;
 }
 
 #showcase{
@@ -27,4 +30,8 @@ footer {
     background-size:cover;
     background-position:center;
     height: 100vh;
+}
+
+.state {
+    margin-left:300px;
 }
